@@ -1,0 +1,8 @@
+{
+  "name": "Mama's Pot Kitchen",
+  "description": "Authentic Nigerian catering, home-cooked meals, and small chops in Surulere, Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
